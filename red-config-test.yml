@@ -1,3 +1,3 @@
 #该文件中配置红包服务的测试环境配置数据
 red:
-  remark: {cipher}f801d1425dcf583505d7c9c87821bf1f2d9e6c292ae35afe82bd3ac2c0f48a1a
+  remark: '{cipher}f801d1425dcf583505d7c9c87821bf1f2d9e6c292ae35afe82bd3ac2c0f48a1a'
